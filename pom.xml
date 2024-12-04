@@ -14,7 +14,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>anime-service</module>
+		<module>animes-services</module>
 	</modules>
 
 </project>
